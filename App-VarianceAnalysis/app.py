@@ -15,7 +15,7 @@ if not GROQ_API_KEY:
 
 # Streamlit App UI
 st.set_page_config(page_title="Budget vs. Actuals AI", page_icon="📊", layout="wide")
-st.title("📊 Budget vs. Actuals AI – Variance Analysis & Commentary by Fachroh Fiddin")
+st.title("📊 Budget vs. Actuals AI – Variance Analysis & Commentary")
 st.write("Upload your Budget vs. Actuals file and get AI-driven financial insights! dengan sangat hati-hati yaaaaa...")
 
 # File uploader
